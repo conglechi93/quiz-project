@@ -1,0 +1,30 @@
+C:\Users\Ross\Desktop\W.TEST\DataAccessTier\bin\Debug\DataAccessTier.dll
+C:\Users\Ross\Desktop\W.TEST\DataAccessTier\bin\Debug\DataAccessTier.pdb
+C:\Users\Ross\Desktop\W.TEST\DataAccessTier\bin\Debug\DataTransferObject.dll
+C:\Users\Ross\Desktop\W.TEST\DataAccessTier\bin\Debug\DataTransferObject.pdb
+C:\Users\Ross\Desktop\W.TEST\DataAccessTier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ross\Desktop\W.TEST\DataAccessTier\obj\Debug\DataAccessTier.dll
+C:\Users\Ross\Desktop\W.TEST\DataAccessTier\obj\Debug\DataAccessTier.pdb
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\DataAccessTier\bin\Debug\DataAccessTier.dll
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\DataAccessTier\bin\Debug\DataAccessTier.pdb
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\DataAccessTier\bin\Debug\DataTransferObject.dll
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\DataAccessTier\bin\Debug\DataTransferObject.pdb
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\DataAccessTier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\DataAccessTier\obj\Debug\DataAccessTier.dll
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\DataAccessTier\obj\Debug\DataAccessTier.pdb
+C:\Users\Nguyen\Desktop\9_6_2014\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanThanh\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanThanh\Source\W.TEST\DataAccessTier\bin\Debug\DataAccessTier.dll
+C:\Users\Nguyen\Desktop\9_6_2014\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanThanh\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanThanh\Source\W.TEST\DataAccessTier\bin\Debug\DataAccessTier.pdb
+C:\Users\Nguyen\Desktop\9_6_2014\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanThanh\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanThanh\Source\W.TEST\DataAccessTier\bin\Debug\DataTransferObject.dll
+C:\Users\Nguyen\Desktop\9_6_2014\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanThanh\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanThanh\Source\W.TEST\DataAccessTier\bin\Debug\DataTransferObject.pdb
+C:\Users\Nguyen\Desktop\9_6_2014\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanThanh\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanThanh\Source\W.TEST\DataAccessTier\obj\Debug\DataAccessTier.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen\Desktop\9_6_2014\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanThanh\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanThanh\Source\W.TEST\DataAccessTier\obj\Debug\DataAccessTier.dll
+C:\Users\Nguyen\Desktop\9_6_2014\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanThanh\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanThanh\Source\W.TEST\DataAccessTier\obj\Debug\DataAccessTier.pdb
+D:\Freelance\XÂY DỰNG PHẦN MỀM THI TRẮC NGHIỆM FIT-TEST BẰNG MÔ HÌNH 3 LỚP FULL CODE + BÁO CÁO\W.TEST\DataAccessTier\bin\Debug\DataAccessTier.dll
+D:\Freelance\XÂY DỰNG PHẦN MỀM THI TRẮC NGHIỆM FIT-TEST BẰNG MÔ HÌNH 3 LỚP FULL CODE + BÁO CÁO\W.TEST\DataAccessTier\bin\Debug\DataAccessTier.pdb
+D:\Freelance\XÂY DỰNG PHẦN MỀM THI TRẮC NGHIỆM FIT-TEST BẰNG MÔ HÌNH 3 LỚP FULL CODE + BÁO CÁO\W.TEST\DataAccessTier\bin\Debug\DataTransferObject.dll
+D:\Freelance\XÂY DỰNG PHẦN MỀM THI TRẮC NGHIỆM FIT-TEST BẰNG MÔ HÌNH 3 LỚP FULL CODE + BÁO CÁO\W.TEST\DataAccessTier\bin\Debug\DataTransferObject.pdb
+D:\Freelance\XÂY DỰNG PHẦN MỀM THI TRẮC NGHIỆM FIT-TEST BẰNG MÔ HÌNH 3 LỚP FULL CODE + BÁO CÁO\W.TEST\DataAccessTier\obj\Debug\DataAccessTier.csproj.AssemblyReference.cache
+D:\Freelance\XÂY DỰNG PHẦN MỀM THI TRẮC NGHIỆM FIT-TEST BẰNG MÔ HÌNH 3 LỚP FULL CODE + BÁO CÁO\W.TEST\DataAccessTier\obj\Debug\DataAccessTier.csproj.CoreCompileInputs.cache
+D:\Freelance\XÂY DỰNG PHẦN MỀM THI TRẮC NGHIỆM FIT-TEST BẰNG MÔ HÌNH 3 LỚP FULL CODE + BÁO CÁO\W.TEST\DataAccessTier\obj\Debug\DataAccessTier.csproj.CopyComplete
+D:\Freelance\XÂY DỰNG PHẦN MỀM THI TRẮC NGHIỆM FIT-TEST BẰNG MÔ HÌNH 3 LỚP FULL CODE + BÁO CÁO\W.TEST\DataAccessTier\obj\Debug\DataAccessTier.dll
+D:\Freelance\XÂY DỰNG PHẦN MỀM THI TRẮC NGHIỆM FIT-TEST BẰNG MÔ HÌNH 3 LỚP FULL CODE + BÁO CÁO\W.TEST\DataAccessTier\obj\Debug\DataAccessTier.pdb
